@@ -153,5 +153,11 @@ sudo ss -tunap | grep ESTAB
 Cette procédure permet de transformer une simple alerte de script en une véritable action de défense. L'utilisation de ce script permet de réduire drastiquement le MTTD (Mean Time To Detect), point crucial dans la survie d'une infrastructure face à une cyberattaque.
 
 ---
+## Licence
+Ce projet est sous licence **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+Toute utilisation commerciale est strictement interdite sans autorisation préalable. Consultez le fichier [LICENSE](./LICENSE) pour plus de détails.
+
+
+---
 - **Date** : 19/04/2026 
 - **Auteur** : Alexis Rousseau - **Administrateur systeme réseau & cybersécurité**

@@ -39,7 +39,7 @@ Le script permet d'envoyer une **alerte de manière automatique** sur le **serve
 
 3. **Remontée** d'alertes en temps réel via **Webhook Discord**.
     
-![capture remonte discrod](./captures/output_discord_03.png)
+![capture remonte discrod](./captures/output_discord_04.png)
 
 - Permet de **suivre** l'Alerte **directement** sur Telephone Egalement.
     
